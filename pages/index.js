@@ -7,7 +7,7 @@ function HomePage() {
       <Head>
         <title>Anasayfa</title>
       </Head>
-      <h1>Welcome HomePage Project! :)</h1>
+      <h1>Ana sayfama hoşgeldin :)</h1>
 
       <style jsx>{`
         h1 {
