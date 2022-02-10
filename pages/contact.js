@@ -5,7 +5,7 @@ function Contact() {
     <Layout>
       <Head></Head>
       <h1>İletişim sayfası</h1>
-      <div>Çankaya / Ankara</div>
+      <div>İstanbul / Türkiye</div>
     </Layout>
   )
 }
